@@ -34,9 +34,6 @@ Deep Learning excites me, and I'm always curious to learn more!
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> 
   </a> 
-  <a href="https://keras.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Keras_logo.svg" alt="keras" width="40" height="40"/> 
-  </a> 
   <a href="https://www.sql.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="40" height="40"/> 
   </a> 
@@ -52,23 +49,17 @@ Deep Learning excites me, and I'm always curious to learn more!
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
   </a> 
-  <a href="https://www.pygame.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Pygame_logo.png" alt="pygame" width="40" height="40"/> 
-  </a> 
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> 
   </a>
-  <a href="https://restfulapi.net/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/Restful_API_logo.svg" alt="rest api" width="40" height="40"/> 
-  </a>
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/OpenCV_logo_2022.svg" alt="opencv" width="40" height="40"/> 
+    <img src="https://github.com/sanika-14/Sanika/blob/main/png-clipart-opencv-c-python-computer-vision-library-numpy-text-logo.png" alt="opencv" width="40" height="40"/> 
   </a>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Power_BI_Logo.svg/200px-Power_BI_Logo.svg.png" alt="powerbi" width="40" height="40"/> 
+    <img src="https://github.com/sanika-14/Sanika/blob/main/png-clipart-power-bi-business-intelligence-microsoft-azure-microsoft-dynamics-cloud-computing-cloud-computing-angle-text-thumbnail.png" alt="powerbi" width="40" height="40"/> 
   </a>
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Tableau_Logo.svg/1200px-Tableau_Logo.svg.png" alt="tableau" width="40" height="40"/> 
+    <img src="https://github.com/sanika-14/Sanika/blob/main/png-transparent-tableau-software-computer-software-data-visualization-nyse-data-business-intelligence-software-software-company-symmetry-cross-thumbnail.png" alt="tableau" width="40" height="40"/> 
   </a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
