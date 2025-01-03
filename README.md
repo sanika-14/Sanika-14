@@ -4,6 +4,8 @@
   
 ![Hello fam!](https://github.com/sanika-14/Sanika/blob/main/code%20geass%20robot%20GIF%20-%20Find%20%26%20Share%20on%20GIPHY.gif)
 
-![sanika-14's Stats](https://github-readme-stats.vercel.app/api?username=sanika-14&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![sanika-14's Stats](https://github-readme-stats.vercel.app/api?username=sanika-14&theme=buefy&show_icons=true&hide_border=false&count_private=true)
+![sanika-14's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanika-14&theme=buefy&hide_border=false)
+![sanika-14's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanika-14&theme=buefy&show_icons=true&hide_border=false&layout=compact)
 
 </div>
