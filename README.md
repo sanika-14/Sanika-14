@@ -34,6 +34,9 @@ Deep Learning excites me, and I'm always curious to learn more!
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> 
   </a> 
+  <a href="https://keras.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Keras_logo.svg" alt="keras" width="40" height="40"/> 
+  </a> 
   <a href="https://www.sql.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="40" height="40"/> 
   </a> 
@@ -61,7 +64,20 @@ Deep Learning excites me, and I'm always curious to learn more!
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/OpenCV_logo_2022.svg" alt="opencv" width="40" height="40"/> 
   </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Power_BI_Logo.svg/200px-Power_BI_Logo.svg.png" alt="powerbi" width="40" height="40"/> 
+  </a>
+  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Tableau_Logo.svg/1200px-Tableau_Logo.svg.png" alt="tableau" width="40" height="40"/> 
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+  </a>
 </p>
+---
 
 
 ![sanika-14's Stats](https://github-readme-stats.vercel.app/api?username=sanika-14&theme=buefy&show_icons=true&hide_border=false&count_private=true)  
