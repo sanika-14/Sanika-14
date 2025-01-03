@@ -12,7 +12,7 @@ Deep Learning excites me, and I'm always curious to learn more!
 ---
 <h3 align="center">My social Handles:</h3>
 <p align="center">
-<a href="https://x.com/sanikaaa14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/x.svg" alt="sanikaaa14" height="30" width="40" /></a>
+<a href="https://x.com/sanikaaa14" target="blank"><img align="center" src="https://github.com/sanika-14/Sanika/blob/main/x-logo.html" alt="sanikaaa14" height="30" width="40" /></a>
 <a href="www.linkedin.com/in/sanika-kulkarni-a25605257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sanika Kulkarni" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/sanikakulk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Sanikakulk" height="30" width="40" /></a>
 <a href="https://huggingface.co/san145" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/huggingface.svg" alt="san145" height="30" width="40" /></a>
