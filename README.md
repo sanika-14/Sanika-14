@@ -6,7 +6,7 @@
 
 ### Hello guys, this is Sanika Kulkarni 👋  
 I'm an engineering student chasing neural networks and AI for fun.  
-Aspiring to contribute to the development of AGI (Artificial General Intelligence).  
+Aspiring to contribute to the development of AGI.  
 Deep Learning excites me, and I'm always curious to learn more!
 
 ---
