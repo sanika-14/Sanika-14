@@ -1,11 +1,11 @@
-# Sanika
+# Hello guys, this is Sanika Kulkarni 👋 
 
 <div align="center">
 
 ![Hello fam!](https://github.com/sanika-14/Sanika/blob/main/code%20geass%20robot%20GIF%20-%20Find%20%26%20Share%20on%20GIPHY.gif)
 
-### Hello guys, this is Sanika Kulkarni 👋  
-I'm an engineering student chasing neural networks and AI for fun.  
+ 
+Just an engineering student chasing neural networks and AI for fun.  
 Aspiring to contribute to the development of AGI.  
 Deep Learning excites me, and I'm always curious to learn more!
 
