@@ -8,7 +8,7 @@
 Just an engineering student chasing neural networks and AI for fun.  
 Aspiring to contribute to the development of AGI.  
 Deep Learning excites me, and I'm always curious to learn more!
-
+</div>
 ---
 <h3 align="center">My social Handles:</h3>
 <p align="center">
@@ -69,8 +69,7 @@ Deep Learning excites me, and I'm always curious to learn more!
   </a>
 </p>
 ---
-
-
+<div align="center">
 ![sanika-14's Stats](https://github-readme-stats.vercel.app/api?username=sanika-14&theme=buefy&show_icons=true&hide_border=true&count_private=true) 
 ![sanika-14's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanika-14&theme=buefy&hide_border=true) 
 ![sanika-14's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanika-14&theme=buefy&show_icons=true&hide_border=true&layout=compact)
