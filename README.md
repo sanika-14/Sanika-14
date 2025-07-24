@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Hello fam!](https://github.com/sanika-14/Sanika/blob/main/code%20geass%20robot%20GIF%20-%20Find%20%26%20Share%20on%20GIPHY.gif)
+![Hello fam!](https://github.com/sanika-14/Sanika/blob/main/code%20geass%20robot%20GIF%20-%20Find%20%26%20Share%20on%20GIPHY.gif) 
 
  
 Just an engineering student chasing neural networks and AI for fun.  
